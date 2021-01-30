@@ -1,6 +1,5 @@
 ### Hi there!, I'm Ziyad - aka Doodle6660 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://github.com/Doodle6660/my-portfolio)
 
 ## Hi! I'm an 18-year-old maker who enjoys building simple & clean websites that are easy to use and beautiful to look at.
 
