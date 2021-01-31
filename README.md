@@ -9,6 +9,7 @@
 
 [<img align="left" alt="Doodle6660 | Twitter" width="22px" src="https://cdn.discordapp.com/attachments/779282536585101313/805423091135414332/discord.svg" />](https://discordapp.com/invite/98m2uSV)
 [<img align="left" alt="Doodle6660 | Instagram" width="22px" src="https://cdn.discordapp.com/attachments/779282536585101313/805423055690137610/instagram.svg" />](https://www.instagram.com/maoiikun/)
+[<img align="left" alt="Doodle6660 | Whatsapp" width="22px" src="https://cdn.discordapp.com/attachments/779282536585101313/805428053094039622/whatsapp.svg" />](https://wa.me/6282117855840)
 
 <br />
 
