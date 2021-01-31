@@ -7,9 +7,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Doodle6660" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]()
-[<img align="left" alt="Doodle6660 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]()
-[<img align="left" alt="Doodle6660 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]()
+[<img align="left" alt="Doodle6660 | Twitter" width="22px" src="https://cdn.discordapp.com/attachments/779282536585101313/805423091135414332/discord.svg" />](https://discordapp.com/invite/98m2uSV)
+[<img align="left" alt="Doodle6660 | Instagram" width="22px" src="https://cdn.discordapp.com/attachments/779282536585101313/805423055690137610/instagram.svg" />](https://www.instagram.com/maoiikun/)
 
 <br />
 
@@ -20,17 +19,19 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
+<img align="left" alt="Tailwind" width="26px" src="https://cdn.discordapp.com/attachments/779282536585101313/805425539309502494/tailwind-css.svg" />
+<img align="left" alt="Vue" width="26px" src="https://cdn.discordapp.com/attachments/779282536585101313/805425540051894282/vuejs.svg" />
+<img align="left" alt="Vuetify" width="26px" src="https://cdn.discordapp.com/attachments/779282536585101313/805425524988968980/vuetify.svg" />
+<img align="left" alt="ClipStudioPaint" width="26px" src="https://cdn.discordapp.com/attachments/779282536585101313/805425534275944468/clipstudiopaint.svg" />
+<img align="left" alt="Firebase" width="26px" src="https://cdn.discordapp.com/attachments/779282536585101313/805425539028090890/firebase.svg" />
+<img align="left" alt="Figma" width="26px" src="https://cdn.discordapp.com/attachments/779282536585101313/805425535681298462/figma.svg" />
+<img align="left" alt="AdobeIllustration" width="26px" src="https://cdn.discordapp.com/attachments/779282536585101313/805425529968001054/adobe-illustrator.svg" />
+<img align="left" alt="AdobeXD" width="26px" src="https://cdn.discordapp.com/attachments/779282536585101313/805425532103688212/adobe-xd.svg" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
 <br />
