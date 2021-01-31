@@ -22,16 +22,15 @@
 <img align="left" alt="Tailwind" width="26px" src="https://cdn.discordapp.com/attachments/779282536585101313/805425539309502494/tailwind-css.svg" />
 <img align="left" alt="Vue" width="26px" src="https://cdn.discordapp.com/attachments/779282536585101313/805425540051894282/vuejs.svg" />
 <img align="left" alt="Vuetify" width="26px" src="https://cdn.discordapp.com/attachments/779282536585101313/805425524988968980/vuetify.svg" />
-<img align="left" alt="ClipStudioPaint" width="26px" src="https://cdn.discordapp.com/attachments/779282536585101313/805425534275944468/clipstudiopaint.svg" />
-<img align="left" alt="Firebase" width="26px" src="https://cdn.discordapp.com/attachments/779282536585101313/805425539028090890/firebase.svg" />
-<img align="left" alt="Figma" width="26px" src="https://cdn.discordapp.com/attachments/779282536585101313/805425535681298462/figma.svg" />
+<img align="left" alt="ClipStudioPaint" width="30px" src="https://cdn.discordapp.com/attachments/779282536585101313/805425534275944468/clipstudiopaint.svg" />
+<img align="left" alt="Firebase" width="22px" src="https://cdn.discordapp.com/attachments/779282536585101313/805425539028090890/firebase.svg" />
+<img align="left" alt="Figma" width="22px" src="https://cdn.discordapp.com/attachments/779282536585101313/805425535681298462/figma.svg" />
 <img align="left" alt="AdobeIllustration" width="26px" src="https://cdn.discordapp.com/attachments/779282536585101313/805425529968001054/adobe-illustrator.svg" />
 <img align="left" alt="AdobeXD" width="26px" src="https://cdn.discordapp.com/attachments/779282536585101313/805425532103688212/adobe-xd.svg" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br />
 <br />
